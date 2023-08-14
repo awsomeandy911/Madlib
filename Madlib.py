@@ -1,16 +1,16 @@
 # Program that prints out a madlib based on users input
 # string concatenation (how to put strings together)
+adj = input("Enter a Adjective: ")
 noun1 = input("Enter a Noun: ")
 noun2 = input("Enter a Noun: ")
 pluraln = input("Enter a Plural Noun: ")
-adj = input("Enter a Adjective: ")
 verbing = input("Enter a verb ending in -ing: ")
 
 
 madlib1 = f"\nTitle: The Wacky Adventure\
     \nOnce upon a time in a town far, far away, there lived a {adj} {noun1}. \
-    \nThis {noun2} was known for their love of {pluraln} and their peculiar habit of {verbing} at the moon. \
-    \nOne fine [day of the week], the [noun] stumbled upon a mysterious [noun], shimmering with [color] lights. \
+    \nThis {noun1} was known for their love of {pluraln} and their peculiar habit of {verbing} at the moon. \
+    \nOne fine [day of the week], the {noun1} stumbled upon a mysterious {noun2}, shimmering with [color] lights. \
     \nFilled with [emotion], the [noun] couldn't resist the temptation and decided to [verb] into the unknown. Little did they know, \
     \nthis would be the beginning of an extraordinary journey. As soon as the [noun] stepped inside, they were greeted by a [adjective] \
     \n[noun] who introduced themselves as [name]. [name] had an unusual request for the adventurous [noun]. They needed help retrieving the \
