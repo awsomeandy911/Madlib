@@ -45,23 +45,23 @@ print(madlib1)
 
 
 madlib2 = f"\nTitle: The Job Interview\
-     \nOnce upon a {weekDay1}, in a {adj} city, a {noun} named Bob decided to go for a job interview at the {adj} company called Silly Solutions. Bob was nervous, but he wore his lucky {color} socks for confidence.\
-     \nWhen he arrived, the receptionist had a {noun} on her desk that looked like a dancing {animal}. It was {verbing} to a silly song, and Bob couldn't help but {verb} along.\
-     \ninally, it was Bob's turn to meet the {adj} interviewer, who had a collection of {pluralN} shaped like famous {celeb} heads. The interviewer asked, ""If you were a {fooditem}, what flavor would you be?""\
-     \nBob didn't hesitate and said, ""I'd be {adj} cheese, because I'm sharp and always up for a good {noun}!""\
-     \nThe interviewer burst out {verbing} and high-fived Bob, saying, ""You're hired! We need more {adj} people like you around here.""\
-     \nAnd so, Bob's unusual answer landed him the job at Silly Solutions, where every day felt like a {adj} adventure filled with {noun} and {verbing}."
+    \nOnce upon a {weekDay1}, in a {adj} city, a {noun} named Bob decided to go for a job interview at the {adj} company called Silly Solutions. Bob was nervous, but he wore his lucky {color} socks for confidence.\
+    \nWhen he arrived, the receptionist had a {noun} on her desk that looked like a dancing {animal}. It was {verbing} to a silly song, and Bob couldn't help but {verb} along.\
+    \ninally, it was Bob's turn to meet the {adj} interviewer, who had a collection of {pluralN} shaped like famous {celeb} heads. The interviewer asked, ""If you were a {fooditem}, what flavor would you be?""\
+    \nBob didn't hesitate and said, ""I'd be {adj} cheese, because I'm sharp and always up for a good {noun}!""\
+    \nThe interviewer burst out {verbing} and high-fived Bob, saying, ""You're hired! We need more {adj} people like you around here.""\
+    \nAnd so, Bob's unusual answer landed him the job at Silly Solutions, where every day felt like a {adj} adventure filled with {noun} and {verbing}."
 
 madlib3 = f"\nTitle: The Silent Goodbye\
-In a [adjective] world, a deep [emotion] settled over [noun]. The once [adjective] sky seemed to mourn, casting a [color] pallor on everything.\
-In the midst of [noun], a [noun] faced a heart-wrenching [noun]. The [adjective] loss of a loved one left a void, like an endless [noun].\
-Days turned into [plural noun], each carrying the weight of [emotion]. The [noun] echoed with memories, and [noun] felt like a distant dream.\
-Amidst the [adjective] sadness, there were [noun] of the person who was no longer there. A favorite [noun], a cherished [noun], all remained as bittersweet [noun] of their absence.\
-Friends and family gathered, sharing [adjective] stories through [noun]. Tears fell like [noun], and the ache of [emotion] hung heavy.\
-As time passed, the pain began to [verb]. But the [noun] remained, a quiet reminder of what was lost. The world moved on, yet the [adjective] sorrow lingered, a testament to a love that would never [verb] fade."
+    \nIn a {adj} world, a deep [emotion] settled over [noun]. The once [adjective] sky seemed to mourn, casting a [color] pallor on everything.\
+    \nIn the midst of [noun], a [noun] faced a heart-wrenching [noun]. The [adjective] loss of a loved one left a void, like an endless [noun].\
+    \nDays turned into [plural noun], each carrying the weight of [emotion]. The [noun] echoed with memories, and [noun] felt like a distant dream.\
+    \nAmidst the [adjective] sadness, there were [noun] of the person who was no longer there. A favorite [noun], a cherished [noun], all remained as bittersweet [noun] of their absence.\
+    \nFriends and family gathered, sharing [adjective] stories through [noun]. Tears fell like [noun], and the ache of [emotion] hung heavy.\
+    \nAs time passed, the pain began to [verb]. But the [noun] remained, a quiet reminder of what was lost. The world moved on, yet the [adjective] sorrow lingered, a testament to a love that would never [verb] fade."
 
 madlib4 = f"\nTitle: Enchanted Moments\
-In a world aglow with [color] hues and [adjective] whispers, two [noun] found themselves drawn together. Their eyes met, igniting a spark of [emotion] that danced between them.\
-Through [adjective] conversations and shared [noun], their connection [verb]. Each smile exchanged was a promise, like a secret [noun] shared only by them.\
-Amidst life's chaos, they found solace in each other's [noun], offering [adjective] comfort in their embrace. Their hearts beat in [noun], a rhythm only they could hear.\
-Underneath a [noun], they sealed their love with [adjective] promises. Their story, woven with [noun] and whispered [noun], painted the world around them with [color] tints of forever."
+    \nIn a world aglow with [color] hues and [adjective] whispers, two [noun] found themselves drawn together. Their eyes met, igniting a spark of [emotion] that danced between them.\
+    \nThrough [adjective] conversations and shared [noun], their connection [verb]. Each smile exchanged was a promise, like a secret [noun] shared only by them.\
+    \nAmidst life's chaos, they found solace in each other's [noun], offering [adjective] comfort in their embrace. Their hearts beat in [noun], a rhythm only they could hear.\
+    \nUnderneath a [noun], they sealed their love with [adjective] promises. Their story, woven with [noun] and whispered [noun], painted the world around them with [color] tints of forever."
