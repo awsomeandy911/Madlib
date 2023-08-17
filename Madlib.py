@@ -50,3 +50,11 @@ Finally, it was Bob's turn to meet the [adjective] interviewer, who had a collec
 Bob didn't hesitate and said, ""I'd be [adjective] cheese, because I'm sharp and always up for a good [noun]!""\
 The interviewer burst out [verb ending in -ing] and high-fived Bob, saying, ""You're hired! We need more [adjective] people like you around here.""\
 And so, Bob's unusual answer landed him the job at Silly Solutions, where every day felt like a [adjective] adventure filled with [noun] and [verb ending in -ing]."
+
+madlib3 = f"\nTitle: The Silent Goodbye\
+In a [adjective] world, a deep [emotion] settled over [noun]. The once [adjective] sky seemed to mourn, casting a [color] pallor on everything.\
+In the midst of [noun], a [noun] faced a heart-wrenching [noun]. The [adjective] loss of a loved one left a void, like an endless [noun].\
+Days turned into [plural noun], each carrying the weight of [emotion]. The [noun] echoed with memories, and [noun] felt like a distant dream.\
+Amidst the [adjective] sadness, there were [noun] of the person who was no longer there. A favorite [noun], a cherished [noun], all remained as bittersweet [noun] of their absence.\
+Friends and family gathered, sharing [adjective] stories through [noun]. Tears fell like [noun], and the ache of [emotion] hung heavy.\
+As time passed, the pain began to [verb]. But the [noun] remained, a quiet reminder of what was lost. The world moved on, yet the [adjective] sorrow lingered, a testament to a love that would never [verb] fade."
