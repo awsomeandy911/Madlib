@@ -42,3 +42,11 @@ madlib1 = f"\nTitle: The Wacky Adventure\
     \nThey would forever cherish the memories of their wacky adventure, reminding them that sometimes, the greatest stories come from embracing the unknown"
 
 print(madlib1) 
+
+madlib2 = f"\nTitle: The Job Interview\
+Once upon a [day of the week], in a [adjective] city, a [noun] named Bob decided to go for a job interview at the [adjective] company called Silly Solutions. Bob was nervous, but he wore his lucky [color] socks for confidence.\
+When he arrived, the receptionist had a [noun] on her desk that looked like a dancing [animal]. It was [verb ending in -ing] to a silly song, and Bob couldn't help but [verb] along.\
+Finally, it was Bob's turn to meet the [adjective] interviewer, who had a collection of [plural noun] shaped like famous [celebrity] heads. The interviewer asked, ""If you were a [food item], what flavor would you be?""\
+Bob didn't hesitate and said, ""I'd be [adjective] cheese, because I'm sharp and always up for a good [noun]!""\
+The interviewer burst out [verb ending in -ing] and high-fived Bob, saying, ""You're hired! We need more [adjective] people like you around here.""\
+And so, Bob's unusual answer landed him the job at Silly Solutions, where every day felt like a [adjective] adventure filled with [noun] and [verb ending in -ing]."
