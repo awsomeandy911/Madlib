@@ -1,5 +1,5 @@
 # Job Interview madlib
-madlib2 = f"\nTitle: The Job Interview\
+madlib = f"\nTitle: The Job Interview\
     \nOnce upon a {weekDay1}, in a {adj} city, a {noun} named Bob decided to go for a job interview at the {adj} company called Silly Solutions. Bob was nervous, but he wore his lucky {color} socks for confidence.\
     \nWhen he arrived, the receptionist had a {noun} on her desk that looked like a dancing {animal}. It was {verbing} to a silly song, and Bob couldn't help but {verb} along.\
     \ninally, it was Bob's turn to meet the {adj} interviewer, who had a collection of {pluralN} shaped like famous {celeb} heads. The interviewer asked, ""If you were a {fooditem}, what flavor would you be?""\

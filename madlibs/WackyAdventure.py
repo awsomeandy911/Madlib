@@ -24,7 +24,7 @@ mythicalCreature = input("Enter a Mythical Creature: ")
 weekDay = input("Enter a Week Day: ")
 
 
-madlib1 = f"\nTitle: The Wacky Adventure\
+madlib = f"\nTitle: The Wacky Adventure\
     \nOnce upon a time in a town far, far away, there lived a {adj1} {noun1}. \
     \nThis {noun1} was known for their love of {pluralN1} and their peculiar habit of {verbing1} at the moon. \
     \nOne fine {weekDay}, the {noun1} stumbled upon a mysterious {noun2}, shimmering with {color} lights. \
@@ -40,4 +40,4 @@ madlib1 = f"\nTitle: The Wacky Adventure\
     \nthe {noun1} and the {noun3} know. Satisfied and filled with newfound {emotion3}, the {noun1} and {name} bid farewell to the enchanted {noun2} and returned home. \
     \nThey would forever cherish the memories of their wacky adventure, reminding them that sometimes, the greatest stories come from embracing the unknown"
 
-print(madlib1) 
+print(madlib) 
